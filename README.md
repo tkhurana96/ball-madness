@@ -10,7 +10,4 @@ Your health is damaged either if you drop off the platform(drop into the pink ar
 
 ![](./Screenshots/gameOver.png)
 
-#### This repository contains the assets, scripts and other things used for making this game.
-
-
-_Builds for Linux, Mac and Windows will be uploaded soon_
+**_Builds for Linux, Mac, Windows and Web are included in the build directory. Although, if you are using the web build then WebGL is required_**
